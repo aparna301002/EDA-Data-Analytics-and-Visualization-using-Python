@@ -1,0 +1,4 @@
+Subject,Q1,Q3,IQR,Lower Bound,Upper Bound,Outlier Count
+math_score,57.0,77.0,20.0,27.0,107.0,8
+reading_score,59.0,79.0,20.0,29.0,109.0,6
+writing_score,57.75,79.0,21.25,25.875,110.875,5
