@@ -1,0 +1,3 @@
+waterfront_label,count,mean,median,min,max
+Non-Waterfront,21450,531563.6,450000.0,75000.0,7700000.0
+Waterfront,163,1661876.02,1400000.0,285000.0,7062500.0
