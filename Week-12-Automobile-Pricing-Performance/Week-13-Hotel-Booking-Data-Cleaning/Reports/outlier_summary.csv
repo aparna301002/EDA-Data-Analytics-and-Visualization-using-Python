@@ -1,0 +1,6 @@
+Column,Q1,Q3,IQR,Lower_Bound,Upper_Bound,Outlier_Count
+lead_time,11.0,125.0,114.0,-160.0,296.0,2396
+adr,72.0,134.0,62.0,-21.0,227.0,2490
+total_nights,2.0,5.0,3.0,-2.5,9.5,3014
+total_guests,2.0,2.0,0.0,2.0,2.0,30339
+days_in_waiting_list,0.0,0.0,0.0,0.0,0.0,860
