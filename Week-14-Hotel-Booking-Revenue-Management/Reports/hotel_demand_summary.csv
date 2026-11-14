@@ -1,0 +1,3 @@
+hotel,total_bookings,canceled_bookings,average_lead_time,average_adr,not_canceled_bookings,cancellation_rate
+City Hotel,53428,16049,77.67852062588905,110.98594426143596,37379,30.03855656210227
+Resort Hotel,33967,7976,83.3686519268702,99.02844937733683,25991,23.481614508199133

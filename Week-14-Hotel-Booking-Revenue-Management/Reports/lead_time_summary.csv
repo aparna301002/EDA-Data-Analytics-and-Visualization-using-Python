@@ -1,0 +1,3 @@
+cancellation_status,total_bookings,average_lead_time,median_lead_time,minimum_lead_time,maximum_lead_time
+Canceled,24025,105.71925078043705,80.0,0,629
+Not Canceled,63370,70.09761716900742,38.0,0,737

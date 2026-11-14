@@ -1,0 +1,15 @@
+market_segment,hotel,total_bookings,canceled_bookings,cancellation_rate
+Aviation,City Hotel,227,45,19.823788546255507
+Complementary,City Hotel,513,57,11.11111111111111
+Complementary,Resort Hotel,189,31,16.402116402116402
+Corporate,City Hotel,2227,264,11.854512797485405
+Corporate,Resort Hotel,1985,246,12.39294710327456
+Direct,City Hotel,5559,912,16.40582838640043
+Direct,Resort Hotel,6245,825,13.210568454763811
+Groups,City Hotel,2635,890,33.776091081593925
+Groups,Resort Hotel,2306,445,19.297484822202946
+Offline TA/TO,City Hotel,7271,1261,17.3428689313712
+Offline TA/TO,Resort Hotel,6618,802,12.118464792988819
+Online TA,City Hotel,34994,12618,36.05760987597874
+Online TA,Resort Hotel,16624,5627,33.84865255052936
+Undefined,City Hotel,2,2,100.0

@@ -1,0 +1,49 @@
+EXECUTIVE REVENUE MANAGEMENT REPORT
+HOTEL BOOKING VISUALIZATION AND HOSPITALITY INSIGHTS
+
+1. OVERALL BOOKING PERFORMANCE
+Total bookings analyzed: 87,395
+Total canceled bookings: 24,025
+Overall cancellation rate: 27.49%
+
+2. HOTEL-WISE DEMAND ANALYSIS
+Hotel with highest booking demand: City Hotel
+Total bookings: 53,428
+Hotel with highest cancellation rate: City Hotel
+Cancellation rate: 30.04%
+
+3. MARKET SEGMENT ANALYSIS
+Market segment with highest cancellation rate: Undefined
+Bookings in this segment: 2
+Cancellation rate: 100.00%
+
+4. LEAD TIME AND CANCELLATION RISK
+Lead-time group with highest cancellation rate: Above 365 Days
+Bookings in this group: 565
+Cancellation rate: 40.88%
+
+5. SEASONAL ARRIVAL ANALYSIS
+Peak arrival month in 2015: September with 2,839 bookings
+Peak arrival month in 2016: August with 4,423 bookings
+Peak arrival month in 2017: May with 4,575 bookings
+
+6. ADR ANALYSIS
+Highest ADR month in 2015: August with average ADR of 122.62
+Highest ADR month in 2016: August with average ADR of 148.10
+Highest ADR month in 2017: August with average ADR of 165.13
+
+7. ESTIMATED REVENUE
+Estimated revenue from completed stays: 22,976,960.13
+
+8. REVENUE MANAGEMENT RECOMMENDATIONS
+Pricing Optimization: Review monthly arrival demand and ADR together. Consider higher rates during consistently high-demand periods and suitable promotions during lower-demand periods.
+Hotel-Specific Pricing: Develop separate pricing strategies for City Hotel and Resort Hotel because their demand and cancellation patterns may differ.
+Cancellation Prevention: Review the market segments with higher cancellation rates. Consider suitable deposit policies, clear cancellation terms, and booking confirmation reminders.
+Lead-Time Monitoring: Monitor bookings made far in advance when their observed cancellation rate is high. Use reminders and appropriate confirmation procedures.
+Seasonal Planning: Use monthly arrival trends to plan staffing, room preparation, supplies, and promotional campaigns.
+Overbooking Protection: Do not overbook using the overall cancellation rate alone. Consider hotel type, arrival date, market segment, lead time, room availability, and expected no-shows. Apply any overbooking limit only after checking historical patterns and current room inventory.
+
+9. ANALYSIS LIMITATIONS
+Estimated revenue is calculated as ADR multiplied by total nights for completed stays. It is not actual accounting revenue.
+The dataset does not provide total available room inventory, so occupancy rate and RevPAR cannot be calculated reliably.
+The analysis identifies historical relationships and does not guarantee future demand or cancellation behavior.
